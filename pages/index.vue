@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="futurebank">Future Bank</h1>
+    <iframe class="airtable-embed" src="https://airtable.com/embed/shrZEyITJgTotvX1t?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
   </div>
 </template>
 <style>
