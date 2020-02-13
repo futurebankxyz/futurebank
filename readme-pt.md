@@ -8,7 +8,7 @@ São essas nossas principais características:
 * Ganho por emprestimo
 * Cartão virtual
 * Cartão de crédito
-* Estrutura de investimentos para grandes imperatrizes
+* Estrutura de investimentos para grandes empresas
 * Estrutura para remessas de pagamento
 
 Exemplos de pacotes personalizados
@@ -17,14 +17,14 @@ Alice, ama fazer compras na internet:
 * Cartão virtual com crédito em DAI ou USC
 * Redução de 7,50 AP ao ano com seus DAI guardados
 * Relatório de Consumo no seu aplicativo móvel
-* Notificações de descontos nas compras feitas usando o cartão futuro
+* Notificações de descontos nas compras feitas usando o future card
 
 Bob, é trade
 * Painel de arbitragem
 * Liquidez Diaria
-* Notificação de Baixa no mercad
+* Notificação de Baixa no mercado
 * Proteção para seus ativos
-* Exchange Descentralizada, bobina contrala suas moedas.
+* Exchange Descentralizada, suas moedas são suas.
 
 esses são dois estudos de caso iniciais.
 
