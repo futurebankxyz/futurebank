@@ -14,7 +14,10 @@ module.exports = {
         content: process.env.npm_package_description || ''
       }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    rel: 'stylesheet',
+    href:
+      '<link href="https://fonts.googleapis.com/css2?family=Tomorow" rel="stylesheet">'
   },
   /*
    ** Customize the progress-bar color
@@ -33,9 +36,7 @@ module.exports = {
    */
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
-    '@nuxtjs/eslint-module',
-    // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/eslint-module'
   ],
   /*
    ** Nuxt.js modules
@@ -45,8 +46,12 @@ module.exports = {
     '@nuxtjs/axios',
     '@nuxtjs/pwa',
     // Doc: https://github.com/nuxt-community/dotenv-module
-    '@nuxtjs/dotenv'
+    '@nuxtjs/dotenv',
+    'nuxt-buefy'
   ],
+  buefy: {
+    /* buefy options */
+  },
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
