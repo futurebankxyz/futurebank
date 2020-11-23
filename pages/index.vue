@@ -18,7 +18,7 @@
                     class="button  is-primary  has-text-centered"
                     href="https://gitcoin.co/grants/451/future-bank-is-lego-bank?tab=description"
                   >
-                    <span>Donate</span>
+                    <span>Gitcoin</span>
                   </a>
                 </span>
               </div>
